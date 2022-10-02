@@ -9,6 +9,7 @@
   "author": "gon.pineiro",
   "license": "ISC",
   "dependencies": {
+    "date-fns": "^2.29.3",
     "http-server": "^0.12.3"
   }
 }
